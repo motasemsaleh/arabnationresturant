@@ -1,0 +1,291 @@
+body{
+    background-image: url(../image/Jordan\ Middle\ East\ Mansaf.gif);
+    background-repeat: no-repeat;
+    background-attachment:fixed;
+    background-size: cover;
+}
+.name{
+    font-family: fantasy;
+    text-align: center;
+    font-weight: 500;
+    margin-top: 50px;
+}
+.line{
+    width: 170px;
+    height: 4px;
+    background-color: black;
+    margin: auto;
+    margin-top: -12px;
+}
+.parent{
+    margin-top: 80px;
+    overflow: auto;
+}
+.a1{
+    color: black;
+    font-size: 35px;
+    font-weight: 500;
+    text-decoration: none;
+}
+ .a2{
+        color: rgb(228, 22, 22);
+        font-size: 28px;
+}
+.a2:hover{
+    font-size: 30px;
+    color: blue;
+}
+.div1{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+
+.para1{
+    font-size: 29px;
+    font-weight: 540;
+}
+.div1:hover{
+    background-image: url(../image/mansaf1.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.div2{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div2:hover{
+    background-image: url(../image/maqlupa.jpg);
+   background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+    color: antiquewhite;
+}
+.para2{
+    font-size: 27px;
+    font-weight: 540;
+}
+.div3{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div3:hover{
+    background-image: url(../image/rashoof.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para3{
+    font-size: 30px;
+    font-weight: 540;
+}
+.div4{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div4:hover{
+    background-image: url(../image/falafel.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para4{
+    font-size: 29px;
+    font-weight: 540;
+}
+.div5{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div5:hover{
+    background-image: url(../image/makmoura.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para5{
+    font-size: 28px;
+    font-weight: 540;  
+}
+.div6{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div6:hover{
+    background-image: url(../image/moujadra.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(0, 0, 0);
+}
+.para6{
+    font-size: 30px;
+    font-weight: 540;  
+}
+.div7{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div7:hover{
+    background-image: url(../image/maftul.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para7{
+    font-size: 30px;
+    font-weight: 540;
+}
+.div8{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div8:hover{
+    background-image: url(../image/musakhan.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para8{
+    font-size: 30px;
+    font-weight: 540;
+}
+.div9{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div9:hover{
+    background-image: url(../image/mahashi.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para9{
+    font-size: 28px;
+    font-weight: 540;
+}
+.div10{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div10:hover{
+    background-image: url(../image/sajeyah.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para10{
+    font-size: 28px;
+    font-weight: 540;
+}
+.div11{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div11:hover{
+    background-image: url(../image/kabsah.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para11{
+    font-size: 30px;
+    font-weight: 540;
+}
+.div12{
+    width: 300px;
+    height: 300px;
+    border: 3px solid black;
+    border-radius: 40px;
+    float: left;
+    margin-left: 100px;
+    text-align: center;
+    background-color: rgba(189, 220, 247, 0.254);
+}
+.div12:hover{
+    background-image: url(../image/mjlala.jpg);
+    background-size: cover;
+    width: 300px;
+    height: 400px;
+    color: rgb(7, 0, 4);
+}
+.para12{
+    font-size: 30px;
+    font-weight: 540;
+}
